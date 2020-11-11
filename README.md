@@ -1,0 +1,2 @@
+# leetcode
+leetcode typescript version
